@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    font-family: verdana;
+    
+}
+body{
+    display: flex;
+}
+.header{
+    background-color: #D0CECF;
+   height: 100vh;
+   width: 17.5rem;
+   
+  
+}
+.mar{
+    margin: 1rem 0 1rem 1rem;
+}
+.pic h1{
+    font-size: 3rem;
+  
+  
+}
+.red{
+    color: #EA833D;
+}
+.pic img{
+   width: 17.5rem;
+   
+    
+}
+.contact{
+    border-bottom: 1px solid black;
+    width: 90%;
+}
+.add h1{
+font-size: large;
+
+}
+.add p{
+    font-size: small;
+}
