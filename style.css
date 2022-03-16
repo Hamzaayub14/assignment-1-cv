@@ -37,7 +37,7 @@ body{
     
 }
 .right{
-    width: 50rem;
+    width: 100%;
 }
 .contact{
     border-bottom: 1px solid black;
