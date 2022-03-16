@@ -51,10 +51,17 @@ font-size: large;
 .add p{
     font-size: small;
 }
-td{
-    padding: 1rem;
+.projec{
+    margin-left: 1rem ;
+    display: flex;
+    gap: 10rem;
 }
-
+.first{
+    gap: 4.6rem;
+}
+.third{
+    gap: 10.1rem;
+}
 @media screen and (max-width: 700px) {
    
     .header{
@@ -74,7 +81,9 @@ td{
      .right{
         width: 60%;
     }
-    td{
-        padding: 0;
+    .projec{
+        margin-left: 1rem ;
+        display: block;
+       
     }
 }
