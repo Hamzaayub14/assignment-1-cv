@@ -4,7 +4,10 @@
     
 }
 body{
+   
     display: flex;
+    
+    justify-content: center;
 }
 .header{
     background-color: #D0CECF;
@@ -13,6 +16,7 @@ body{
    
   
 }
+
 .mar{
     margin: 1rem 0 1rem 1rem;
 }
@@ -29,9 +33,13 @@ body{
    
     
 }
+.right{
+    width: 50rem;
+}
 .contact{
     border-bottom: 1px solid black;
     width: 90%;
+    margin: 1rem 0;
 }
 .add h1{
 font-size: large;
@@ -39,4 +47,7 @@ font-size: large;
 }
 .add p{
     font-size: small;
+}
+td{
+    padding: 1rem;
 }
