@@ -18,6 +18,9 @@ body{
    
   
 }
+.add a p{
+    font-size: 0.9rem;
+}
 
 .mar{
     margin: 1rem 0 0 1rem;
@@ -85,5 +88,8 @@ font-size: large;
         margin-left: 1rem ;
         display: block;
        
+    }
+    .add a p{
+        font-size: 0.6rem;
     }
 }
