@@ -37,7 +37,7 @@ body{
     
 }
 .right{
-    width: 40%;
+    width: 50%;
 }
 .contact{
     border-bottom: 1px solid black;
@@ -71,4 +71,7 @@ td{
         
          
      }
+     .right{
+        width: 30%;
+    }
 }
